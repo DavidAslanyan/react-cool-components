@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 
+
 interface GlitterMouseEffectProps {
   color?: string; 
 }
