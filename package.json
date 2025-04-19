@@ -1,11 +1,16 @@
 {
   "name": "react-cool-tables",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "author": "David Aslanyan",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -p tsconfig.build.json && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
