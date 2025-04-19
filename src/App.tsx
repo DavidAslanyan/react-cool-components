@@ -10,6 +10,7 @@ const columns: Column[] = [
   { key: 'action', title: 'Action', editable: true, type: 'button' },
 ];
 
+
 const initialData = [
   { name: 'Alice', age: 22, subscribe: true, major: 'Physics', action: 'View' },
   { name: 'Bob', age: 27, subscribe: false, major: 'Engineering', action: 'View' },
