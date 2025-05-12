@@ -16,7 +16,7 @@
 - 🔢 Supports multiple data types (text, number, select, checkbox, date, button)
 - 🔁 Pagination and sorting
 - 🎨 Customizable styling (background, cell colors)
-- 🔧 Custom cell components
+- 🔧 Custom cell components   
 
 ## Installation
 
