@@ -4,7 +4,7 @@
 
 ✨ Perfect for dashboards, admin panels, and modern UIs needing interactive, customizable data tables with a touch of visual flair.
 
-## Cool Table 
+## Cool Table  
 ![Demo](/src/assets/table-1.GIF)
 
 ## Cool Table Pro
